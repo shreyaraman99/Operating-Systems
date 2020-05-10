@@ -1,0 +1,11 @@
+NAME: Shreya Raman
+EMAIL: shreyaraman99@gmail.com
+ID: 004923456
+
+Description of files:
+
+lab4b.c- C source file for an embedded application that builds and runs on an embedded system. Gets reading from temperature sensor and converts the sensor value into a temperature in Fahrenheit.
+
+Makefile- implements, default, check, clean, and dist
+
+README- contains descriptions of each file

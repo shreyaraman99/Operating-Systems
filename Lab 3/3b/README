@@ -1,0 +1,12 @@
+NAME: Shreya Raman
+EMAIL: shreyaraman99@gmail.com
+ID: 004923456
+
+
+Description of Files:
+
+lab3b.py: program that analyzes a file system summary and reports on all discovered inconsistencies
+
+Makefile: builds and runs the deliverable program. Implements default, dist, and clean
+
+README: contains description of files

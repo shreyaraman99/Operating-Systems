@@ -1,0 +1,33 @@
+NAME: Shreya Raman
+EMAIL: shreyaraman99@gmail.com
+ID: 004923456
+
+DESCRIPTION OF FILES:
+
+lab0.c:
+This is a C source file that accepts the arguments:
+     --input=filename...use the specified file as standard input
+     --output=filename...create the specified input file
+     --segfault...force segmentation fault
+     --catch...register SIGSEGV handler that catches the segfault
+     --dump-core...dump core on segfaults
+
+Makefile:
+This supports:
+     default...builds lab0 executable
+     check...runs smoke-tests
+     clean...deletes files created by Makefile
+     dist...builds tarball
+
+
+backtrace.png:
+Screenshot when the program was terminated with a segmentation fault. 
+
+breakpoint.png:
+Screenshot that shows that the pointer is null.
+
+
+
+SMOKE-TEST CASES:
+
+I checked whether the program was successful in copying one file to another, whether there was an incorrect argument, whether there was input failure, whether there was output failure, and whether --segfault, --catch, and --dump-core gave the correct output. These smoke-test cases are found in the Makefile.

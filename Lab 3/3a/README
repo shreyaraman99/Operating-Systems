@@ -1,0 +1,14 @@
+NAME: Shreya Raman
+EMAIL: shreyaraman99@gmail.com
+ID: 004923456
+
+
+File Descriptions:
+
+lab3a.c: C program that reads a file system image and analyzes the provided file system image and produces CSV summaries of what it finds.
+
+ext2_fs.h: header file than defines the format of the EXT2 file system
+
+Makefile: builds and runs the dileverable program. Implements default, dist, and clean 
+
+README: contains descriptions of each file

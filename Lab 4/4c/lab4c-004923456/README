@@ -1,0 +1,10 @@
+NAME: Shreya Raman
+EMAIL: shreyaraman99@gmail.com
+ID: 004923456
+
+Description of files:
+
+lab4c_tcp.c- opens a TCP connection to the server, sends, logs, and processes temperature reports
+lab4c_tls.c- opens a TLS connection to the server, sends and logs temperature repors and commands
+Makefile- implements default, clean, and dist
+README- includes descriptions of each file

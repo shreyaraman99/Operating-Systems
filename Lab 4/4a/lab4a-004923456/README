@@ -1,0 +1,15 @@
+NAME: Shreya Raman
+EMAIL: shreyaraman99@gmail.com
+ID: 004923456
+
+Serial number of Beaglebone: BBGW16062497
+MAC address: 2CF7F1065202
+
+Description of files:
+
+my_beaglebone.jpg- a selfie of me holding my assembled Beaglebone
+connected.png- a screenshot from a USB terminal command session connected to my system, showing that I gave it a name nad configured network access
+copy.png- a screenshot from a local session in which I copy a hello world program from my laptop to my Beaglebone
+build_run.png- a screenshot from a WIFI SSH session in which I build and run a trivial (hello world) program
+git.png- a screenshot from a WIFI ssh session in which I install git and clone a repository
+Makefile- builds the tarball

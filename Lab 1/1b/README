@@ -1,0 +1,11 @@
+NAME: Shreya Raman
+EMAIL: shreyaraman99@gmail.com
+ID: 004923456
+
+FILES INCLUDED:
+
+Makefile: builds program and tarball, runs test cases
+
+simpsh.c: C source file that implements all options except for --profile
+commands.c/commands.h: C source file to help implement --command
+files.c/files.h: C source file to support file descriptors
